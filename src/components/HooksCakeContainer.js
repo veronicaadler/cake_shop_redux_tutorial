@@ -1,5 +1,5 @@
 import { useSelector, useDispatch } from 'react-redux'
-import { buyCake } from '../redux';
+import { buyCake } from '../redux/cake/cakeActions';
 
 const HooksCakeContainer = () => {
 

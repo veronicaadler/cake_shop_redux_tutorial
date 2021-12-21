@@ -1,4 +1,4 @@
-import { BUY_ICECREAM} from './iceCreamTypes';
+import { BUY_ICECREAM } from './iceCreamTypes';
 
 const initialState = {
     numOfIceCreams: 20
